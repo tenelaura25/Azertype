@@ -15,11 +15,11 @@ Diese Anwendung ermöglicht eine schnelle und effiziente Texteingabe über die T
 ## 📥 Installation  
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/dein-benutzername/schnelleingabe-app.git
+   git clone https://github.com/tenelaura25/Azertype.git
    ```  
 2. **In das Projektverzeichnis wechseln**:  
    ```bash
-   cd schnelleingabe-app
+   cd Azertype
    ```  
 3. **Starten der Anwendung**:  
    - Öffne die Datei `index.html` im Browser  
